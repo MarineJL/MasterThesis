@@ -38,13 +38,13 @@ Keywords: Predictive modeling, Data Science, Machine Learning, Data Analytics, C
 
 ## III – Data collection
 
-III.1 - Data sources: which data are available? 
+### III.1 - Data sources: which data are available? 
 
   III.1.1 - Different sources
 
   III.1.2 - Choice of Spotify Data
 
-III.2 - Features to extract 
+### III.2 - Features to extract 
 
   III.2.1 - Definition of Spotify features: audio vs. meta 
 
@@ -52,7 +52,7 @@ III.2 - Features to extract
 
 ## IV – How did hit songs evolve over time: Is there a hit song receipt?
 
-IV.1 – Features Analysis over the last 60 years 
+### IV.1 – Features Analysis over the last 60 years 
 
   IV.1.1 – Objectives & Data collection
   
@@ -62,19 +62,19 @@ IV.1 – Features Analysis over the last 60 years
   
   IV.1.4 - Lyrics Analysis 
   
-IV.2 - Focus on the most played songs on Spotify 
+### IV.2 - Focus on the most played songs on Spotify 
 
   IV.2.1 - Objective & Data collection 
   
   IV.2.2 - Exploratory Analysis 
   
-IV.3 - Results and discussions: Is there a hit-song recipe? What is a hit song?
+### IV.3 - Results and discussions: Is there a hit-song recipe? What is a hit song?
 
 ## V – Methods
 
-V.1 - A classification problem
+### V.1 - A classification problem
 
-V.2 - Mathematical models 
+### V.2 - Mathematical models 
 
   V.2.1 - Logistic Regression
 
@@ -96,13 +96,13 @@ VI.2 - Algorithm comparison
 
 ## VII – Discussion
 
-VII.1 - Business Applications
+### VII.1 - Business Applications
 
   VII.1.1 - Taste profiling
 
   VII.1.2 - Innovative listening and discovery experiences
 
-VII.2 - Toward a globalization of tastes and industry?
+### VII.2 - Toward a globalization of tastes and industry?
 
   VII.2.1 - The seasonal effect
 
