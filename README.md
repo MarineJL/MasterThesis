@@ -14,16 +14,27 @@ Keywords: Predictive modeling, Data Science, Machine Learning, Data Analytics, C
 
 I – Introduction 
 
+
 II – State of play of the music industry
+
 II.1 – History of the music industry: from phonograph to streaming 
+
 II.1.1 - A serie of innovations 
+
 II.1.2 - The growing challenge of online music piracy 
+
 II.1.3 - Streaming dominates the music industry 
+
 II.2- Freemium models: Spotify and the new actors
+
 II.2.1 - Freemium model: a new way of consuming music
+
 II.2.2 - Spotify: the world’s biggest music streaming platform 
+
 II.2.3 - A competitive business: Who run the market?
+
 II.2.4 - Which future for music industry? 
+
 
 III – Data collection
 III.1 - Data sources: which data are available? 
