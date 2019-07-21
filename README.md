@@ -12,63 +12,66 @@ Being able to perform accurate predictions is a must at a time when music consum
 Keywords: Predictive modeling, Data Science, Machine Learning, Data Analytics, Classification, R, Python, Music Industry, Streaming
 
 
-I – Introduction .................................................................................................. 6
+I – Introduction 
 
-II – State of play of the music industry................................................................ 8
-II.1 – History of the music industry: from phonograph to streaming ..................................... 8
-II.1.1 - A serie of innovations ...................................................................................................8 II.1.2 - The growing challenge of online music piracy ..............................................................9 
-II.1.3 - Streaming dominates the music industry .....................................................................9
-II.2- Freemium models: Spotify and the new actors............................................................ 10
-II.2.1 - Freemium model: a new way of consuming music.....................................................10 
-II.2.2 - Spotify: the world’s biggest music streaming platform ..............................................12 
-II.2.3 - A competitive business: Who run the market?...........................................................13 
-II.2.4 - Which future for music industry? ...............................................................................14
+II – State of play of the music industry
+II.1 – History of the music industry: from phonograph to streaming 
+II.1.1 - A serie of innovations 
+II.1.2 - The growing challenge of online music piracy 
+II.1.3 - Streaming dominates the music industry 
+II.2- Freemium models: Spotify and the new actors
+II.2.1 - Freemium model: a new way of consuming music
+II.2.2 - Spotify: the world’s biggest music streaming platform 
+II.2.3 - A competitive business: Who run the market?
+II.2.4 - Which future for music industry? 
 
-III – Data collection........................................................................................... 17
-III.1 - Data sources: which data are available? .................................................................... 17
-III.1.1 - Different sources........................................................................................................17
-III.1.2 - Choice of Spotify Data................................................................................................18
-III.2 - Features to extract .................................................................................................... 20
-III.2.1 - Definition of Spotify features: audio vs. meta ...........................................................20 
-III.2.2 - Spotify for developers and API...................................................................................24
+III – Data collection
+III.1 - Data sources: which data are available? 
+III.1.1 - Different sources
+III.1.2 - Choice of Spotify Data
+III.2 - Features to extract 
+III.2.1 - Definition of Spotify features: audio vs. meta 
+III.2.2 - Spotify for developers and API
 
-IV – How did hit songs evolve over time: Is there a hit song receipt? ................ 25
-IV.1 – Features Analysis over the last 60 years ................................................................... 25
-IV.1.1 – Objectives & Data collection.....................................................................................25 
-IV.1.2 – Artists Analysis ..........................................................................................................25 IV.1.3 - Audio Features Analysis.............................................................................................29 
-IV.1.4 - Lyrics Analysis ............................................................................................................39
-IV.2 - Focus on the most played songs on Spotify ............................................................... 46
-IV.2.1 - Objective & Data collection .......................................................................................46
-IV.2.2 - Exploratory Analysis ..................................................................................................46
-IV.3 - Results and discussions: Is there a hit-song recipe? What is a hit song?..................... 51
+IV – How did hit songs evolve over time: Is there a hit song receipt?
+IV.1 – Features Analysis over the last 60 years 
+IV.1.1 – Objectives & Data collection
+IV.1.2 – Artists Analysis 
+IV.1.3 - Audio Features Analysis
+IV.1.4 - Lyrics Analysis 
+IV.2 - Focus on the most played songs on Spotify 
+IV.2.1 - Objective & Data collection 
+IV.2.2 - Exploratory Analysis 
+IV.3 - Results and discussions: Is there a hit-song recipe? What is a hit song?
 
-V – Methods..................................................................................................... 53
-V.1 - A classification problem ............................................................................................. 53 
-V.2 - Mathematical models ................................................................................................ 54 
-V.2.1 - Logistic Regression......................................................................................................54 
-V.2.2 - Stepwise Logistic Regression ......................................................................................55 
-V.2.3 - K-Nearest Neighbors...................................................................................................57 
-V.2.4 - Penalized regression...................................................................................................58
-V.2.5 - Trees..................................................................................................................61 
-V.2.6 - Random Forest ...........................................................................................................62
+V – Methods
+V.1 - A classification problem
+V.2 - Mathematical models 
+V.2.1 - Logistic Regression
+V.2.2 - Stepwise Logistic Regression
+V.2.3 - K-Nearest Neighbors
+V.2.4 - Penalized regression
+V.2.5 - Trees
+V.2.6 - Random Forest 
 
-VI - Results ....................................................................................................... 65
-VI.1 - Performance criteria ................................................................................................. 65 
-VI.2 - Algorithm comparison .............................................................................................. 66
+VI - Results 
+VI.1 - Performance criteria
+VI.2 - Algorithm comparison
 
-VII – Discussion ................................................................................................ 69
-VII.1 - Business Applications............................................................................................... 69
-VII.1.1 - Taste profiling ...........................................................................................................69
-VII.1.2 - Innovative listening and discovery experiences .......................................................70
-VII.2 - Toward a globalization of tastes and industry? ........................................................ 71
-VII.2.1 - The seasonal effect...................................................................................................71 VII.2.2 - Unpredictable events ...............................................................................................72
+VII – Discussion
+VII.1 - Business Applications
+VII.1.1 - Taste profiling
+VII.1.2 - Innovative listening and discovery experiences
+VII.2 - Toward a globalization of tastes and industry?
+VII.2.1 - The seasonal effect
+VII.2.2 - Unpredictable events
 
-Conclusion........................................................................................................ 74 
+Conclusion 
 
-VIII – References............................................................................................... 76
+VIII – References
 
-Annex 1 : Tweets and Sentiments Analysis - R Script ............................................................... 78 
-Annex 2: How to get data from Spotify - Python Notebook ..................................................... 83 
-Annex 3: Principal Component Analysis on the most played songs dataset .............................. 87 
-Annex 4: Lyrics Analysis - Python Notebook............................................................................ 96 
-Annex 5: How to predict if a song will become a hit? - R Markdown ...................................... 104
+Annex 1 : Tweets and Sentiments Analysis - R Script 
+Annex 2: How to get data from Spotify - Python Notebook 
+Annex 3: Principal Component Analysis on the most played songs dataset 
+Annex 4: Lyrics Analysis - Python Notebook
+Annex 5: How to predict if a song will become a hit? - R Markdown 
